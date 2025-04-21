@@ -1,0 +1,14 @@
+/* Light mode styles */
+body {
+    background-color: #333;
+    color: #f9f9f9;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ADD8E6;
+}
+
+p {
+    line-height: 1.6;
+}
