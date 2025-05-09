@@ -6,9 +6,13 @@ body {
 }
 
 h1 {
-    color: #ADD8E6;
+    color: #e4f8ff;
 }
 
 p {
     line-height: 1.6;
+}
+
+a {
+    color: #ADD8E6;
 }
